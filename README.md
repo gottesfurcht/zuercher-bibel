@@ -30,7 +30,8 @@ An die heutige Rechtschreibung angenähert, aber so, dass der ursprüngliche Cha
 <verse id="8">Er war nit das liecht, sondern dass er zeugete von dem liecht.</verse>
 <verse id="9">Das war ein wahr liecht, welches alle menschen erleuchtet durch sein zukunft in diese welt.</verse>
 <verse id="10">Es war in der welt, und die welt ist durch das selbig gemachet, und die welt kannt es nit.</verse>
-<verse id="11">Er kam in sein eigentum, und die seinen namend ihn nit an.</verse> <verse id="12">Wie viel ihn aber annahmend, denen gab er macht kind Gottes zu werden: denen die an seinen Namen glaubtend.</verse>
+<verse id="11">Er kam in sein eigentum, und die seinen namend ihn nit an.</verse>
+<verse id="12">Wie viel ihn aber annahmend, denen gab er macht kind Gottes zu werden: denen die an seinen Namen glaubtend.</verse>
 <verse id="13">Welche nit von dem geblüt, noch von dem willen eines manns, sondern von Gott geboren sind.</verse>
 
 </chapter>
