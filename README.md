@@ -1,7 +1,5 @@
 # Die ursprüngliche Zürcher Bibel
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
-
 An die heutige Rechtschreibung angenähert, aber so, dass der ursprüngliche Charakter möglichst nicht verloren geht. Als Grundlage dient zumeist der [Druck von Christoffel Froschauer von 1534](http://www.e-rara.ch/zuz/content/titleinfo/755409).
 
 > This is the original "Zwingli" Bible from Zurich printed by Christoffel Froschauer in the 16th century. The text is only slightly modified to better match the current orthography and to make it easier to read for us today. The aim is to preserve the original character of the text as good as possible.
@@ -50,3 +48,7 @@ An die heutige Rechtschreibung angenähert, aber so, dass der ursprüngliche Cha
 </chapter>
 </book>
 </collection>
+
+---
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
