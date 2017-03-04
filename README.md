@@ -34,7 +34,7 @@ An die heutige Rechtschreibung angenähert, aber so, dass der ursprüngliche Cha
 <verse id="12">Wie viel ihn aber annahmend, denen gab er macht kind Gottes zu werden: denen die an seinen Namen glaubtend.</verse>
 <verse id="13">Welche nit von dem geblüt, noch von dem willen des fleischs, noch von dem willen eines manns, sondern von Gott geboren sind.</verse>
 
-<verse id="14">Und das wort ward fleisch, und wohnet unter uns: und wir sahend sein herrlichkeit, ein herrlichkeit als des eingeborne suns vom vatter, voller gand und wahrheit.</verse>
+<verse id="14">Und das wort ward fleisch, und wohnet unter uns: und wir sahend sein herrlichkeit, ein herrlichkeit als des eingeborne suns vom vatter, voller gnad und wahrheit.</verse>
 
 <verse id="15">Johannes zeuget von ihm, schreiet und spricht: Dieser war es von dem ich gesagt hab: Nach mir wird kommen der vor mir gewesen ist. Denn er war ee denn ich:</verse>
 <verse id="16">und von seiner völle habend wir alle genommen gnad um gnad.</verse>
