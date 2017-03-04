@@ -44,7 +44,7 @@ An die heutige Rechtschreibung angenähert, aber so, dass der ursprüngliche Cha
 <verse id="20">Und er bekannt und löugnet nit. Und er bekannt, und sprach: Ich bin nit Christus.</verse>
 <verse id="21">Und sie fragtend ihn, Was dann? Bist du Elias? Er sprach: Ich bins nit. Bist du der Prophet? Und er antwortet: Nein.</verse>
 <verse id="22">Do sprached sie zu ihm: Was bist du denn, das wir antwort gebend denen die uns gesandt habend? Was sagst du von dir selbst?</verse>
-<verse id="23">Er sprach: Ich bin eine ruffende stimm in der wüste. Richtend den wäg des Herren. Wie der Prophet Jesaija gesagt hat.</verse>
+<verse id="23">Er sprach: Ich bin eine rufende stimm in der wüste. Richtend den wäg des Herren. Wie der Prophet Jesaija gesagt hat.</verse>
 
 </chapter>
 </book>
