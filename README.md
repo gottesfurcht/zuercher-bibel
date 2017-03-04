@@ -4,8 +4,6 @@ An die heutige Rechtschreibung angenähert, aber so, dass der ursprüngliche Cha
 
 > This is the original "Zwingli" Bible from Zurich printed by Christoffel Froschauer in the 16th century. The text is only slightly modified to better match the current orthography and to make it easier to read for us today. The aim is to preserve the original character of the text as good as possible.
 
-> At the same time this is an attempt to create a new Bible file format. All of the existing Bible formats require special Bible programs to render the text, i.e. to make it readable. This new format is called **Bibledown** and is based on the popular [Markdown](https://en.wikipedia.org/wiki/Markdown) markup language. The text can be rendered with normal Markdown tools (like Github is using here for example). Additional information like verse numbers, chapter, book info etc. is added with html markup between the lines, which is ignored when the Markdown is rendered. Special programs **can** use this information for additional features, but special programs are **not neeeded**.
-
 <collection>
 
 ## <title>Das neu Testament</title>
