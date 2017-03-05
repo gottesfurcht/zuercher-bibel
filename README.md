@@ -26,7 +26,7 @@ An die heutige Rechtschreibung angenähert, aber so, dass der ursprüngliche Cha
 <verse id="6">Es war aber ein mensch von Gott gesandt, der hiess Johannes.</verse>
 <verse id="7">Der selb kam zum zeugnis, dass er von dem liecht zeugete, auf dass sie all durch es glaubtend.</verse>
 <verse id="8">Er war nit das liecht, sunder dass er zeugete von dem liecht.</verse>
-<verse id="9">Das war ein wahr liecht, welches alle menschen erleuchtet durch sein zukunft<note id="1"><sup>1</sup></ref> in diese welt.</verse>
+<verse id="9">Das war ein wahr liecht, welches alle menschen erleuchtet durch sein zukunft<note id="1"><sup>1</sup></note> in diese welt.</verse>
 <verse id="10">Es war in der welt, und die welt ist durch das selbig gemachet, und die welt kannt es nit.</verse>
 <verse id="11">Er kam in sein eigentum, und die seinen namend ihn nit an.</verse>
 <verse id="12">Wie viel ihn aber annahmend, denen gab er macht kind Gottes ze werden: denen die an seinen Namen glaubtend.</verse>
@@ -59,6 +59,15 @@ An die heutige Rechtschreibung angenähert, aber so, dass der ursprüngliche Cha
 <verse id="29">Des anderen tags, sieht Johannes Jesum zu ihm kommen, und spricht: Sehend das lamm Gottes, welches der welt sünd hinnimmt.</verse>
 <verse id="30">Dieser ists, von dem ich euch gesagt hab: nach mir kommt ein mann, welcher vor mir gewesen ist. Denn er war ee denn ich,</verse>
 <verse id="31">und ich kannt ihn nit, sunder, auf dass er offenbar wurde in Israel, darum bin ich kommen zuo taufen mit wasser.</verse>
+</section>
+
+<section id="d">
+<verse id="32">Und Johannes zeuget, und sprach: Ich sah dass der geist herab stieg wi ein Tub vom himmel, und bleib auf ihm,</verse>
+<verse id="33">und ich kannt ihn nit. Aber der mich sendet ze taufen mit wasser, der selbig sprach zuo mir: Auf welchen du sehe wirst den geist herab steigen und bleiben, der selbig ists der mit dem heiligen geist tauft.</verse>
+<verse id="34">Und ich sah es, und zeuget dass dieser ist Gottes sun</verse>
+
+<verse id="35">Des anderen tags stuond abermals Johannes und zween seiner jüngeren.</verse>
+<verse id="36">Und als er sah Jesum wandlen, sprach er: Sehend das lamb Gottes.</verse>
 </section>
 </chapter>
 </book>
