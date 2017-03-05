@@ -1,4 +1,4 @@
-# Die ursprüngliche Zürcher Bibel
+# Die Zürcher Bibel
 
 An die heutige Rechtschreibung angenähert, aber so, dass der ursprüngliche Charakter möglichst nicht verloren geht. Als Grundlage dient zumeist der [Druck von Christoffel Froschauer von 1534](http://www.e-rara.ch/zuz/content/titleinfo/755409).
 
@@ -26,12 +26,14 @@ An die heutige Rechtschreibung angenähert, aber so, dass der ursprüngliche Cha
 <verse id="6">Es war aber ein mensch von Gott gesandt, der hiess Johannes.</verse>
 <verse id="7">Der selb kam zum zeugnis, dass er von dem liecht zeugete, auf dass sie all durch es glaubtend.</verse>
 <verse id="8">Er war nit das liecht, sunder dass er zeugete von dem liecht.</verse>
-<verse id="9">Das war ein wahr liecht, welches alle menschen erleuchtet durch sein zukunft in diese welt.</verse>
+<verse id="9">Das war ein wahr liecht, welches alle menschen erleuchtet durch sein zukunft<note id="1"><sup>1</sup></ref> in diese welt.</verse>
 <verse id="10">Es war in der welt, und die welt ist durch das selbig gemachet, und die welt kannt es nit.</verse>
 <verse id="11">Er kam in sein eigentum, und die seinen namend ihn nit an.</verse>
 <verse id="12">Wie viel ihn aber annahmend, denen gab er macht kind Gottes ze werden: denen die an seinen Namen glaubtend.</verse>
 <verse id="13">Welche nit von dem geblüt, noch von dem willen des fleischs, noch von dem willen eines manns, sunder von Gott geboren sind.</verse>
 </section>
+
+<sup>1 </sup><note verse="9" id="1">*Herankunft* oder *Kommen*</note>
 
 <section id="b">
 <verse id="14">Und das wort ward fleisch, und wohnet unter uns: und wir sahend sein herrlichkeit, ein herrlichkeit als des eingeborne suns vom vatter, voller gnad und wahrheit.</verse>
